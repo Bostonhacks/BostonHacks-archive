@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2022/static/css/main.88b793d5.css",
+    "main.js": "/2022/static/js/main.a29cc962.js",
+    "static/media/MLHBanner.svg": "/2022/static/media/MLHBanner.40f2247ba6c312174358578303f9f00d.svg",
+    "static/media/bhackslogo.svg": "/2022/static/media/bhackslogo.dfab5bb9fe1c99e3e9b0d19299c3ca39.svg",
+    "index.html": "/2022/index.html",
+    "main.88b793d5.css.map": "/2022/static/css/main.88b793d5.css.map",
+    "main.a29cc962.js.map": "/2022/static/js/main.a29cc962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b793d5.css",
+    "static/js/main.a29cc962.js"
+  ]
+}
