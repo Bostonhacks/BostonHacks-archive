@@ -1,0 +1,49 @@
+
+/* General*/
+
+h1,
+h2,
+h3,
+h4 {
+  color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+ }
+
+h1 { font-size: 32px; }
+h2 {
+  font-size: 24px;
+  line-height: 28px;
+}
+h3 { font-size: 18px; }
+h4 { font-size: 14px; }
+
+body {
+    background-color: #222B30;
+}
+
+#terrierLogo {
+  margin-top: 150px;
+  height: 215px;
+}
+
+#mc_embed_signup
+{
+  clear:left;
+  width: 360px;
+  margin: 20px auto;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+#mce-EMAIL
+{
+  background-color: transparent;
+  border: 1px solid #EF6262;
+  color: #ffffff;
+}
+
+#mc-embedded-subscribe {
+  background-color: #EF6262;
+  width: 100%;
+}
